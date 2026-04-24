@@ -1,7 +1,3 @@
-# Codesoft
-internship
-.
-
 🍓 Berry Bot: A Python-Powered Virtual Assistant
 Berry is a lightweight, rule-based chatbot designed to provide quick information and friendly conversation through a modern web interface. Built during my Python development internship, this project focuses on Intent Mapping, Natural Language Processing (NLP) basics, and Web Deployment.
 
